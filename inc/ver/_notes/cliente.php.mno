@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_ver_cliente" value="name:cedula_cl;datatype:int,name:nombre_cl;datatype:string,name:apellido_cl;datatype:string,name:email_cl;datatype:string,name:telefono_cl;datatype:string,name:detalle_cl;datatype:blob,name:fecha_reg_cl;datatype:date,name:autor_reg_cl;datatype:int,name:direccion_cl;datatype:blob,name:actualizado_el;datatype:date,name:actualizado_por;datatype:int" />
+</info>

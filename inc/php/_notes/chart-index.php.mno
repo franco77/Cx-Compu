@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_chart_1" value="name:monto_ingreso;datatype:real,name:mes_reg_ingreso;datatype:string,name:fecha_reg_ingreso;datatype:date,name:Total;datatype:real" />
+	<infoitem key="UD_chart_2" value="name:monto_gasto;datatype:real,name:fecha_reg_gasto;datatype:datetime,name:mes_reg_gasto;datatype:string,name:Total1;datatype:real" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_ingresos" value="name:id_ingreso;datatype:int,name:id_cat_ingreso;datatype:int,name:titulo_ingreso;datatype:string,name:nota_ingreso;datatype:blob,name:monto_ingreso;datatype:real,name:fecha_reg_ingreso;datatype:datetime,name:autor_ingreso;datatype:int,name:actualizado_por;datatype:int,name:actualizado_el;datatype:datetime,name:id_cat_ingreso;datatype:int,name:nombre_cat_ingreso;datatype:string,name:descripcion_cat_ingreso;datatype:blob" />
+</info>

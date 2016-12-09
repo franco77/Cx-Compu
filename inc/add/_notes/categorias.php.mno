@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_cat_gasto" value="name:id_cat_gasto;datatype:int,name:nomb_cat_gasto;datatype:string,name:descripcion_cat_gasto;datatype:blob" />
+	<infoitem key="UD_cat_ingreso" value="name:id_cat_ingreso;datatype:int,name:nombre_cat_ingreso;datatype:string,name:descripcion_cat_ingreso;datatype:blob" />
+</info>

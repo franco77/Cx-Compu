@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_noti_event" value="name:id_evento;datatype:int,name:titulo_evento;datatype:blob,name:nota_eveto;datatype:blob,name:desde_evento;datatype:date,name:hora_evento_d;datatype:time,name:hasta_evento;datatype:date,name:hora_evento_h;datatype:time,name:autor_evento;datatype:int,name:prioridad_eveto;datatype:string,name:estado_evento;datatype:string,name:fecha_eveto;datatype:timestamp" />
+	<infoitem key="UD_event_equipos" value="name:dni_eqp;datatype:string,name:id_cliente;datatype:int,name:titulo_eqp;datatype:string,name:marca_eqp;datatype:string,name:modelo_eqp;datatype:string,name:descripccion_eqp;datatype:blob,name:facha_registro_eqp;datatype:datetime,name:fecha_entrega_eqp;datatype:date,name:hora_entrega;datatype:time,name:precio_rep_eqp;datatype:real,name:autor_reg_eqp;datatype:int,name:actualizado_el;datatype:datetime,name:actualizado_por;datatype:int,name:estado_rep_eqp;datatype:string" />
+</info>

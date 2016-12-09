@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_count_clientes" value="name:COUNT(*);datatype:int" />
+	<infoitem key="UD_count_equipos" value="name:COUNT(*);datatype:int" />
+	<infoitem key="UD_count_equi_pend" value="name:COUNT(*);datatype:int" />
+	<infoitem key="UD_count_equi_rep" value="name:COUNT(*);datatype:int" />
+</info>

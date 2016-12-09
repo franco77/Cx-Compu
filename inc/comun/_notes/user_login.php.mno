@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_user_login" value="name:cedula;datatype:int,name:nivel;datatype:int,name:email_user;datatype:string,name:password_user;datatype:string,name:nombre_user;datatype:string,name:apellido_user;datatype:string,name:avatar_user;datatype:string,name:fecha_reg;datatype:date,name:estado_user;datatype:string" />
+</info>

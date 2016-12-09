@@ -1,0 +1,120 @@
+.clone_item {
+	display:none;
+}
+
+.loading {
+	padding-top:33px;
+}
+
+.multibox {
+	background:#F9F9F9;
+ 	border: 1px solid #CCCCCC;
+    float: left;
+    margin: 3px;
+    padding: 3px;
+    width: 137px;
+	text-align:center;
+	height:105px;
+	
+    -webkit-transition-property: background;
+    -webkit-transition-duration: 0.2s;
+    -webkit-transition-timing-function: linear;
+    transition-property: background;
+    transition-duration: 0.2s;
+    transition-timing-function: linear;
+}
+
+
+.multibox:hover {
+	background:#fafafa;
+}
+
+.maintext{
+	position: relative;
+	width: 129px;
+	height:24px;
+	margin: 0px;
+	font-size: 10px;
+	text-transform: uppercase;
+	padding: 4px;
+	color: #FFF;
+	background-color: #000;
+	top: -24px;
+	opacity: 0.5;
+	text-align: center;
+	font-family: "Verdana";
+	line-height:15px;
+}
+
+.uploadButton {
+	background:#E6E6E6;
+	font-family: "Verdana";
+    font-size: 10px;
+    height: 105px;
+    padding: 10px 7.5px;
+    text-align: center;
+    width: 137px;
+	cursor: pointer;
+}
+
+.uploadButton img {
+	width: 50px;
+}
+
+.uploadButton:active img {
+	position:relative;
+	top:1px;
+	left:1px;
+}
+
+.multibox hr {
+	border:none;
+	border-top:1px solid #f0f0f0;
+}
+
+.main {
+	background:#C0C0C0 !important;
+	border:1px solid #AAA !important;
+}
+
+.orakuploaderFileInput { /* read only pls */
+	visibility:hidden;
+	position:absolute;
+	top:-50;
+	left:-50;
+}
+
+.picture_uploaded {
+	max-width:100%;
+	max-height:100%;
+}
+
+.picture_delete {
+	background: url(images/delete.png) no-repeat;
+ 	cursor: pointer;
+    height: 24px;
+    left: 115px;
+    margin-top: -24px;
+    position: relative;
+    top: 12px;
+    width: 23px;
+}
+
+.rotate_picture {
+	background: url(images/rotate.png) no-repeat;
+ 	cursor: pointer;
+    height: 24px;
+    left: 90px;
+    margin-top: -24px;
+    position: relative;
+    top: 12px;
+    width: 23px;
+}
+
+.clear {
+	clear:both;
+}
+
+.DragAndDropHover {
+	border: 2px dashed #777 !important;
+}

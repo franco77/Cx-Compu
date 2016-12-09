@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_eventos" value="name:id_evento;datatype:int,name:titulo_evento;datatype:blob,name:nota_eveto;datatype:blob,name:desde_evento;datatype:date,name:hora_evento_d;datatype:time,name:hasta_evento;datatype:date,name:hora_evento_h;datatype:time,name:autor_evento;datatype:int,name:prioridad_eveto;datatype:string,name:estado_evento;datatype:string,name:fecha_eveto;datatype:timestamp" />
+</info>

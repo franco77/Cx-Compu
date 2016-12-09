@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_edit_gasto" value="name:id_gasto;datatype:int,name:id_cat_gasto;datatype:int,name:titulo_gasto;datatype:string,name:nota_gasto;datatype:blob,name:monto_gasto;datatype:real,name:fecha_reg_gasto;datatype:datetime,name:autor_gasto;datatype:string,name:actualizado_por;datatype:int,name:actualizado_el;datatype:datetime" />
+</info>
